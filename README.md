@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Lua, C#, C++**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">You can find me on discord: Kona3366</h3>
 <p align="left">
 </p>
 
