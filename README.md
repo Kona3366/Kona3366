@@ -10,6 +10,7 @@
 - 💬 Ask me about **Lua, C#, C++**
 
 <h3 align="left">You can find me on discord: Kona3366</h3>
+<h3 align="left">And also check out [Raven Hub](https://loot-link.com/s?KYsZ)</h3>
 <p align="left">
 </p>
 
